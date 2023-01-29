@@ -1,0 +1,12 @@
+.dynamic-button{
+    width: 100px;
+    height: 35px;
+    padding: 10px;
+    border: none;
+    color: aliceblue;
+    border-radius: 60px;
+    display: flex;
+    box-shadow: 0px 0px 3px 0px grey;
+    align-items: center;
+    cursor: pointer;
+}
